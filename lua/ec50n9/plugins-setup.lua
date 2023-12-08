@@ -47,6 +47,13 @@ return require('packer').startup(function(use)
     end
   }
   use "szw/vim-maximizer"
+  use {
+    'numToStr/Comment.nvim',
+    config = function()
+        require('Comment').setup()
+    end
+  }
+  use "tpope/vim-surround"
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
