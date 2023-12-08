@@ -1,0 +1,5 @@
+require("ec50n9.core.options")
+require("ec50n9.core.keymaps")
+require("ec50n9.plugins-setup")
+require("ec50n9.plugins.nvim-tree")
+require("ec50n9.core.colorscheme")
