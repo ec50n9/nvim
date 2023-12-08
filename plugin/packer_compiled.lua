@@ -115,6 +115,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\shell\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
+  },
+  ["vim-maximizer"] = {
+    loaded = true,
+    path = "C:\\Users\\shell\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-maximizer",
+    url = "https://github.com/szw/vim-maximizer"
   }
 }
 

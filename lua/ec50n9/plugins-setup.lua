@@ -46,6 +46,7 @@ return require('packer').startup(function(use)
       require'hop'.setup { keys = 'etovxqpdygfblzhckisuran' }
     end
   }
+  use "szw/vim-maximizer"
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
