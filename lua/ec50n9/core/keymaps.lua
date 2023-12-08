@@ -22,3 +22,11 @@ keymap.set("n", "<leader>gfc", "<cmd>Telescope git_bcommits<cr>")
 keymap.set("n", "<leader>gb", "<cmd>Telescope git_branches<cr>")
 keymap.set("n", "<leader>gs", "<cmd>Telescope git_status<cr>")
 
+-- hop
+keymap.set("n", "<leader>hw", ":HopWord<cr>")
+keymap.set("n", "<leader>hww", ":HopWordMW<cr>")
+keymap.set("n", "<leader>hc", ":HopChar2<cr>")
+keymap.set("n", "<leader>hcc", ":HopChar2MW<cr>")
+keymap.set("n", "<leader>hl", ":HopLine<cr>")
+keymap.set("n", "<leader>hls", ":HopLineStart<cr>")
+
