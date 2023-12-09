@@ -129,6 +129,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\shell\\AppData\\Local\\nvim-data\\site\\pack\\packer\\opt\\lspsaga.nvim",
     url = "https://github.com/nvimdev/lspsaga.nvim"
   },
+  ["lualine.nvim"] = {
+    loaded = true,
+    path = "C:\\Users\\shell\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\lualine.nvim",
+    url = "https://github.com/nvim-lualine/lualine.nvim"
+  },
   ["mason-lspconfig.nvim"] = {
     loaded = true,
     path = "C:\\Users\\shell\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\mason-lspconfig.nvim",
